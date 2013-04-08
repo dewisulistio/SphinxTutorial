@@ -10,10 +10,10 @@ This is how to hyperlink http://github.com
 *git*.
 
 A bullet list:
-*item
-*item
+* item
+* item
 
 A number list:
-#.list 1
-#.list 2
+#. list 1
+#. list 2
 
