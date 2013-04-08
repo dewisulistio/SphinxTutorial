@@ -7,4 +7,13 @@ learning GitHub
 
 **GITHUB**. 
 This is how to hyperlink http://github.com
-*git*
+*git*.
+
+A bullet list:
+*item
+*item
+
+A number list:
+#.list 1
+#.list 2
+
