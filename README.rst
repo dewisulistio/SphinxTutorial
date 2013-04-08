@@ -5,5 +5,6 @@ Hello World
 learning GitHub 
 ---------------
 
-**GITHUB**
+**GITHUB**. 
+This is how to hyperlink http://github.com
 *git*
