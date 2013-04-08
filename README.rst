@@ -15,6 +15,8 @@ Bullets
 A bullet list:
 
 * item
+	- sub bullets 1
+	- sub bullets 2
 * item
 
 Italics
